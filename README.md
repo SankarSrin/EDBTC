@@ -7,6 +7,6 @@ REFERENCE IMAGE
 
 Error diffusion block truncation coding image using block size of 8x8
 
-![REFERENCE IMAGE](https://github.com/SankarSrin/EDBTC/blob/master/EDBTC_8.jpg)
+![REFERENCE IMAGE](https://github.com/SankarSrin/EDBTC/blob/master/EDBTC_8.png)
 
 
